@@ -8,26 +8,25 @@
 /// You can return the answer in any order.
 /// 
 /// Example 1:
-/// ```text
+/// ```no_run
 /// Input: nums = [2,7,11,15], target = 9
 /// Output: [0,1]
 /// Explanation: Because nums[0] + nums[1] == 9, we return [0, 1].
 /// ```
 /// 
 /// Example 2:
-/// ```text
+/// ```no_run
 /// Input: nums = [3,2,4], target = 6
 /// Output: [1,2]
 /// ```
 /// 
 /// Example 3:
-/// ```text
+/// ```no_run
 /// Input: nums = [3,3], target = 6
 /// Output: [0,1]
 /// ```
 
-#[allow(dead_code)]
-fn two_sum(nums: Vec<i32>, target: i32) -> Vec<i32> {
+pub fn two_sum(nums: Vec<i32>, target: i32) -> Vec<i32> {
     for left in 0..nums.len()-1 {
         for right in (left + 1)..nums.len() {
             let sum = nums[left] + nums[right];
