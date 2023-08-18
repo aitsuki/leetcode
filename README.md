@@ -8,3 +8,4 @@ Not the best solution.
 | 2 | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) | [add_two_numbers.rs](src/bin/add_two_numbers.rs) | Medium | 100% | 56.51%|
 | 3 | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters)| [longest_substring_without_repeating_characters.rs](src/bin/longest_substring_without_repeating_characters.rs) | Medium | 100% | 37.63% |
 | 4 | [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/) | [median_of_two_sorted_arrays.rs](src/bin/median_of_two_sorted_arrays.rs) | Hard | 100% | 42.91% |
+| 5 | [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/) | [longest_palindromic_substring.rs](src/bin/longest_palindromic_substring.rs) | Medium | 40.17% | 38.65% |
