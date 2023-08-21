@@ -11,4 +11,5 @@ Not the best solution.
 | 5 | [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/) | [longest_palindromic_substring.rs](src/bin/longest_palindromic_substring.rs) | Medium | 40.17% | 38.65% |
 | 6 | [Zigzag Conversion](https://leetcode.com/problems/zigzag-conversion/) | [zigzag_conversion.rs](src/bin/zigzag_conversion.rs) | Medium | 100% | 67.11% |
 | 7 | [Reverse Integer](https://leetcode.com/problems/reverse-integer/) | [reverse_integer.rs](src/bin/reverse_integer.rs) | Medium | 100% | 26.10% |
-| 8 | [String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi/) | [string_to_integer](src/bin/string_to_integer.rs) | Medium | 32.60% | 92.07% |
+| 8 | [String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi/) | [string_to_integer.rs](src/bin/string_to_integer.rs) | Medium | 32.60% | 92.07% |
+| 9 | [Palindrome Number](https://leetcode.com/problems/palindrome-number/) | [palindrome_number.rs](src/bin/palindrome_number.rs) | Easy | 100% | 33.27% |
